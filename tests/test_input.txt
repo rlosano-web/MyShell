@@ -1,0 +1,13 @@
+help
+pwd
+ls -la
+echo "Hello World"
+echo "Test" > test.txt
+cat < test.txt
+ls | grep "test"
+sleep 2 &
+cd /tmp
+pwd
+cd
+pwd
+exit
