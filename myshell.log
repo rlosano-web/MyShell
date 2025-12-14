@@ -3,3 +3,13 @@
 [2025-12-08 16:09:09] pid=345293 cmd="echo "Test"" status=0
 [2025-12-08 16:09:09] pid=345294 cmd="cat" status=0
 [2025-12-08 16:09:09] pid=345296 cmd="ls | grep "test"" status=1
+[2025-12-14 12:43:29] pid=14034 cmd="ls -la" status=0
+[2025-12-14 12:43:29] pid=14035 cmd="echo "Hello World"" status=0
+[2025-12-14 12:43:29] pid=14036 cmd="echo "Test"" status=0
+[2025-12-14 12:43:29] pid=14037 cmd="cat" status=0
+[2025-12-14 12:43:29] pid=14039 cmd="ls | grep "test"" status=1
+[2025-12-14 12:43:30] pid=14055 cmd="ls -la" status=0
+[2025-12-14 12:43:30] pid=14056 cmd="echo "Hello World"" status=0
+[2025-12-14 12:43:30] pid=14057 cmd="echo "Test"" status=0
+[2025-12-14 12:43:30] pid=14058 cmd="cat" status=0
+[2025-12-14 12:43:30] pid=14060 cmd="ls | grep "test"" status=1
